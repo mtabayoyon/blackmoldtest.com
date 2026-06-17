@@ -1,0 +1,10 @@
+# Images referenced by the site — download into /assets/ for self-hosting
+http://www.blackmoldtest.com/wp-content/uploads/2016/01/banner-300x92.png
+http://www.blackmoldtest.com/wp-content/uploads/2016/01/mold-inspector.jpg
+http://www.blackmoldtest.com/wp-content/uploads/2016/01/s2-image.png
+http://www.blackmoldtest.com/wp-content/uploads/2016/01/s3-image.png
+https://blackmoldtest.com/wp-content/uploads/2016/01/mold-inspector.jpg
+https://blackmoldtest.com/wp-content/uploads/2016/01/moldSliderImage1.jpg
+https://blackmoldtest.com/wp-content/uploads/2016/01/s1-image.png
+https://blackmoldtest.com/wp-content/uploads/2016/01/s2-image.png
+https://blackmoldtest.com/wp-content/uploads/2016/01/s3-image.png
