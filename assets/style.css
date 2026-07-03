@@ -99,3 +99,10 @@ main{display:block}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 .trust-badges{background:#fff;padding:1.6rem 1.2rem;border-bottom:1px solid var(--line)}.wrap-narrow{max-width:var(--maxw);margin:0 auto;text-align:center}.trust-label{text-transform:uppercase;letter-spacing:.14em;font-size:.72rem;font-weight:700;color:var(--ink-soft);margin:0 0 .8rem}.cert-img{max-width:520px;width:100%;height:auto}
+
+/* data tables (soils/metals, water) */
+.prose table{border-collapse:collapse;width:100%;margin:1.2rem 0;font-size:.9rem;background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 2px 12px rgba(15,77,107,.06)}
+.prose th,.prose td{border:1px solid var(--line);padding:.5rem .7rem;text-align:left}
+.prose thead th,.prose tr:first-child td{background:var(--brand-blue);color:#fff;font-weight:600}
+.prose tr:nth-child(even) td{background:var(--paper)}
+.prose td strong{color:var(--brand-blue-dd)}
