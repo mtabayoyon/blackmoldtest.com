@@ -1,0 +1,9 @@
+HERO STYLE OPTIONS
+------------------
+The site ships with Version A (clean blue gradient hero) as the default.
+Version B (lab-tech PHOTO behind the gradient) is included as style_B.css.
+
+To switch to the PHOTO hero (Version B):
+  - Rename assets/style.css      -> assets/style_A.css   (backup)
+  - Rename assets/style_B.css    -> assets/style.css
+Commit & push. That's the only change needed.

@@ -37,6 +37,7 @@ main{display:block}
 .brand:hover{text-decoration:none}
 .brand-mark{background:linear-gradient(135deg,var(--brand-blue),var(--brand-blue-d));color:#fff;font-family:Inter,sans-serif;font-weight:700;padding:.4rem .6rem;border-radius:8px;letter-spacing:1px;box-shadow:0 2px 6px rgba(36,153,201,.35)}
 .brand-name{font-size:.92rem;max-width:18ch;line-height:1.2}
+.brand-logo{height:46px;width:auto;display:block}
 .call-btn{margin-left:auto;background:var(--brand-lime);color:#0d2b00;font-weight:700;padding:.6rem 1rem;border-radius:10px;white-space:nowrap;box-shadow:0 2px 10px rgba(127,181,59,.35);transition:transform .15s,box-shadow .15s}
 .call-btn:hover{text-decoration:none;transform:translateY(-1px);box-shadow:0 4px 16px rgba(127,181,59,.45)}
 .menu-toggle{display:none;background:none;border:0;font-size:1.5rem;cursor:pointer;color:var(--ink)}
@@ -96,3 +97,5 @@ main{display:block}
  .brand-name{display:none}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+.trust-badges{background:#fff;padding:1.6rem 1.2rem;border-bottom:1px solid var(--line)}.wrap-narrow{max-width:var(--maxw);margin:0 auto;text-align:center}.trust-label{text-transform:uppercase;letter-spacing:.14em;font-size:.72rem;font-weight:700;color:var(--ink-soft);margin:0 0 .8rem}.cert-img{max-width:520px;width:100%;height:auto}
